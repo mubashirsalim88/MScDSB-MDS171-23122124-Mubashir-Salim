@@ -1,0 +1,36 @@
+Customer name: Anurag 
+Phone no.: 7055070679 
+Email: anuyadav7800@gmail.com 
+Item: Besan 
+Quantity: 2 
+Price: 100 
+Total: 200Customer name: Mubashir 
+Phone no.: 97876
+Email: jmfhjfhuefgewu
+Item: mango
+Quantity: 23
+Price: 90.0
+Total: 2070.0
+------------------------------
+Customer name: siddharth 
+Phone no.: 9410578207 
+Email: siddharthnautiyal07@gmail.com 
+Item: mango 
+Quantity: 3 
+Price: 45 
+Total: 135Customer name: siddharth 
+Phone no.: 9410529854
+Email: siddharth
+Item: mangoessss
+Quantity: 2
+Price: 34.0
+Total: 68.0
+------------------------------
+Customer name: jhjvhj
+Phone no.: 76890
+Email: mbhmgjk
+Item: hbbj
+Quantity: 786
+Price: 87.0
+Total: 68382.0
+------------------------------
