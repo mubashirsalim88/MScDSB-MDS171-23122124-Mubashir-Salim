@@ -43,11 +43,3 @@ print("Stack after popping:")
 stack.print_stack()
 
 print("Is the stack empty?", stack.is_empty())
-
-    
-    
-
-
-
-
-
